@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
 <h4 align="center">SLIIT</h4>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F1*IRGHmiGsa16stedQvIaZfw.gif&imgrefurl=https%3A%2F%2Flevelup.gitconnected.com%2Funity-creating-your-own-state-machine-35569f829302&tbnid=zhjSEq0Xd_DH7M&vet=10CAUQxiAoA2oXChMI-O3l4oTn_AIVAAAAAB0AAAAAEBg..i&docid=0cAnMGqX8s9vqM&w=680&h=428&itg=1&q=animation%20coding%20gif&ved=0CAUQxiAoA2oXChMI-O3l4oTn_AIVAAAAAB0AAAAAEBg">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasliit&label=Profile%20views&color=0e75b6&style=flat" alt="thulasliit" /> </p>
 
