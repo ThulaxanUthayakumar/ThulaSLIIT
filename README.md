@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
 <h4 align="center">SLIIT</h4>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/100335632/215020093-58d4b4c8-3598-4baf-8f17-7852f8c0c43a.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasliit&label=Profile%20views&color=0e75b6&style=flat" alt="thulasliit" /> </p>
 
