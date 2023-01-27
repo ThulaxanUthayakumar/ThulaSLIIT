@@ -1,3 +1,4 @@
+![logo](https://github.com/ThulaSLIIT/ThulaSLIIT/blob/main/WhatsApp%20Image%202023-01-27%20at%2013.19.55.jpeg)
 <h1 align="center">Hi 👋, I'm Thulaxan</h1>
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
 <h4 align="center">SLIIT</h4>
