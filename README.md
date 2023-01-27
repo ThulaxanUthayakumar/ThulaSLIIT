@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thulaxan uthayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulaxan uthayakumar" height="30" width="40" /></a>
 <a href="https://fb.com/thulaxan uthayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thulaxan uthayakumar" height="30" width="40" /></a>
-<a href="https://instagram.com/thulaxan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thulaxan" height="30" width="40" /></a>
+<a href="https://instagram.com/t_h_u_l_a_x_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_h_u_l_a_x_a_n" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chess for crush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chess for crush" height="30" width="40" /></a>
 </p>
 
